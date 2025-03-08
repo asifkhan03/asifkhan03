@@ -8531,7 +8531,7 @@ h1, h2, h3, h4, h5,
                 -ms-transform: translateY(-50%);
                 transform: translateY(-50%);
                 right: 0;
-                max-width: 50%;
+                max-width: 100%;
                 padding-left: 45px;
                 padding-right: 3em; } }
         .owl-carousel.home-slider .slider-item .slider-text .subheading {
